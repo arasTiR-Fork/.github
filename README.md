@@ -31,7 +31,7 @@ To get started with any of the forks:
 
 ## Contact
 
-For any questions or suggestions, please contact me via [email](mailto:mehmetnurabak0@gmail.com) or reach out through the project's issue tracker.
+For any questions or suggestions, please contact me via [email](mailto:mehmetabak@proton.me) or reach out through the project's issue tracker.
 
 ## License
 
